@@ -1,0 +1,19 @@
+html{
+	background-image: url(fon.png);
+	font-family: sans-serif;
+}
+
+div.lessons{
+	color: #ff9400;
+	font-size: 40px;
+   	text-align: center;
+}
+
+div{
+	color: #ff9400;
+	font-size: 40px;
+}
+
+div.a{
+	text-align: center;
+}

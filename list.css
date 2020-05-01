@@ -1,0 +1,24 @@
+html{
+	background-image: url(fon.png);
+	font-family: sans-serif;
+}
+
+div.teachers{
+	color: #ff9400;
+	font-size: 40px;
+}
+
+div.ss{
+	color: #ff9400;
+	font-size: 40px;
+   	text-align: center;
+}
+
+div.students{
+	color: #ff9400;
+	font-size: 40px;
+}
+
+div.all{
+	text-align: center;
+}
